@@ -1,0 +1,34 @@
+<style>
+ .alert2 {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    color: white;
+    overflow: hidden;
+}
+.alert2.warning2 {background-image: url("https://1.bp.blogspot.com/-Dl-FuB6uzAs/WemkAPQMOwI/AAAAAAAAAlw/cdU8xs-4X6M0hddP66RXsv7mYvgdgRqNgCLcBGAs/s1600/7774391378598530591.jpg");}
+.closebtn2 {
+    background: #cccccc;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    padding: 1px;
+    color: #66b3ff;
+    font-family: verdana;
+    float: right;
+    font-size: 18px;
+    line-height: 10px;
+    cursor: pointer;
+    transition: 0.3s;
+}
+.closebtn2:hover {
+    background: #737373;
+    color: white;
+}
+.install {
+    position: absolute;
+    top: 77%;
+    width: 102%;
+    text-align: center;
+}
+</style>
